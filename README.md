@@ -1,1 +1,1 @@
-This is an API project to check Calories of varios food using ninja API.
+This is an API project to check calories of various foods using ninja API.
